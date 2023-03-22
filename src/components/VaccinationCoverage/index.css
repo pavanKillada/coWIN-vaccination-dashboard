@@ -1,0 +1,19 @@
+/* Write your CSS here */
+.dose-1 {
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+}
+.dose-2 {
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+}
+.vaccination-coverage-graph-container {
+  background-color: #1c1c2b;
+  padding: 20px;
+  margin: 10px;
+}
+.graph-head {
+  color: #cbd5e1;
+  font-size: 25px;
+  font-weight: normal;
+}

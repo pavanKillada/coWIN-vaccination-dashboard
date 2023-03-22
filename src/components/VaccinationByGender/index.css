@@ -1,0 +1,10 @@
+/* Write your CSS here */
+.vaccination-by-gender-container {
+  background-color: #1c1c2b;
+  padding: 20px;
+  margin: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+}
